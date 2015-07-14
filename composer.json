@@ -1,7 +1,7 @@
 {
-    "name": "realestateconz/mssql-bundle",
+    "name": "lashus/mssql-bundle",
     "type": "symfony-bundle",
-    "description": "Microsoft SQL Server Bundle for Symfony 2",
+    "description": "Microsoft SQL Server Bundle for Symfony 2. Fork of realestateconz/mssql-bundle to work with ubuntu",
     "keywords": ["mssql", "sql server", "driver"],
     "license": "MIT",
     "authors": [
